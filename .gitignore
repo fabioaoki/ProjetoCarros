@@ -1,0 +1,6 @@
+# Ignore java config files 
+
+.classpath
+.project
+.settings/
+

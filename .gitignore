@@ -1,4 +1,4 @@
-# Ignore java config files 
+# Ignore Java config files
 
 .classpath
 .project
